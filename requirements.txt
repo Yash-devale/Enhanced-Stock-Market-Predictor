@@ -1,0 +1,8 @@
+streamlit
+pandas
+datetime
+requests
+beautifulsoup4
+yfinance
+scikit-learn
+matplotlib
